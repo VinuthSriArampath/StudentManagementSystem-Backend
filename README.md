@@ -1,4 +1,4 @@
-# Student Management Systeme Using SpringBoot
+# Student Management System Using SpringBoot
 
 
 A Simple Student Managemet System REST-API for CRUD Operations which allows the user to performe registering,updating ,deleting and serching.
